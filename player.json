@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Shubman Gill",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 900
+    },
+    {
+        "name": "Sam Curran",
+        "position": "All-rounder",
+        "team": "England",
+        "age": 25,
+        "points": 850
+    },
+    {
+        "name": "Ruturaj Gaikwad",
+        "position": "Batsman",
+        "team": "India",
+        "age": 27,
+        "points": 780
+    },
+    {
+        "name": "Prithvi Shaw",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 750
+    },
+    {
+        "name": "Ishan Kishan",
+        "position": "Wicketkeeper-Batsman",
+        "team": "India",
+        "age": 25,
+        "points": 820
+    },
+    {
+        "name": "Harry Brook",
+        "position": "Batsman",
+        "team": "England",
+        "age": 25,
+        "points": 860
+    },
+    {
+        "name": "Cameron Green",
+        "position": "All-rounder",
+        "team": "Australia",
+        "age": 25,
+        "points": 800
+    },
+    {
+        "name": "Ravi Bishnoi",
+        "position": "Bowler",
+        "team": "India",
+        "age": 23,
+        "points": 870
+    },
+    {
+        "name": "Devdutt Padikkal",
+        "position": "Batsman",
+        "team": "India",
+        "age": 24,
+        "points": 760
+    },
+    {
+        "name": "Finn Allen",
+        "position": "Wicketkeeper-Batsman",
+        "team": "New Zealand",
+        "age": 25,
+        "points": 810
+    },
+    {
+        "name": "Tom Banton",
+        "position": "Wicketkeeper-Batsman",
+        "team": "England",
+        "age": 25,
+        "points": 820
+    },
+    {
+        "name": "Josh Philippe",
+        "position": "Wicketkeeper-Batsman",
+        "team": "Australia",
+        "age": 27,
+        "points": 790
+    },
+    {
+        "name": "Shreyas Iyer",
+        "position": "Batsman",
+        "team": "India",
+        "age": 29,
+        "points": 850
+    },
+    {
+        "name": "Anrich Nortje",
+        "position": "Bowler",
+        "team": "South Africa",
+        "age": 30,
+        "points": 910
+    },
+    {
+        "name": "Trent Boult",
+        "position": "Bowler",
+        "team": "New Zealand",
+        "age": 31,
+        "points": 950
+    },
+    {
+        "name": "Rachin Ravindra",
+        "position": "All-rounder",
+        "team": "New Zealand",
+        "age": 24,
+        "points": 790
+    },
+    {
+        "name": "Jofra Archer",
+        "position": "Bowler",
+        "team": "England",
+        "age": 29,
+        "points": 890
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "position": "Batsman",
+        "team": "India",
+        "age": 32,
+        "points": 920
+    },
+    {
+        "name": "Glenn Phillips",
+        "position": "Batsman",
+        "team": "New Zealand",
+        "age": 27,
+        "points": 880
+    },
+    {
+        "name": "Kyle Jamieson",
+        "position": "Bowler",
+        "team": "New Zealand",
+        "age": 28,
+        "points": 890
+    },
+    {
+        "name": "Ben Stokes",
+        "position": "All-rounder",
+        "team": "England",
+        "age": 32,
+        "points": 930
+    },
+    {
+        "name": "Rassie van der Dussen",
+        "position": "Batsman",
+        "team": "South Africa",
+        "age": 29,
+        "points": 870
+    },
+    {
+        "name": "Marco Jansen",
+        "position": "All-rounder",
+        "team": "South Africa",
+        "age": 24,
+        "points": 830
+    },
+    {
+        "name": "Josh Inglis",
+        "position": "Wicketkeeper-Batsman",
+        "team": "Australia",
+        "age": 28,
+        "points": 860
+    },
+    {
+        "name": "Mitchell Marsh",
+        "position": "All-rounder",
+        "team": "Australia",
+        "age": 32,
+        "points": 920
+    },
+    {
+        "name": "Reece Topley",
+        "position": "Bowler",
+        "team": "England",
+        "age": 30,
+        "points": 860
+    },
+    {
+        "name": "Shivam Mavi",
+        "position": "Bowler",
+        "team": "India",
+        "age": 24,
+        "points": 770
+    },
+    {
+        "name": "Dewald Brevis",
+        "position": "Batsman",
+        "team": "South Africa",
+        "age": 21,
+        "points": 810
+    },
+    {
+        "name": "Tilak Varma",
+        "position": "Batsman",
+        "team": "India",
+        "age": 21,
+        "points": 800
+    },
+    {
+        "name": "Keegan Petersen",
+        "position": "Batsman",
+        "team": "South Africa",
+        "age": 29,
+        "points": 850
+    }
+]

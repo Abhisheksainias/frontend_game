@@ -1,0 +1,1 @@
+export const API_URL = "https://backend-game-97v6.onrender.com"
